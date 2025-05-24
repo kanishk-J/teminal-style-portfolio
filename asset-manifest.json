@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/terminal-style-portfolio/static/css/main.be220178.css",
+    "main.js": "/terminal-style-portfolio/static/js/main.d1320cdd.js",
+    "index.html": "/terminal-style-portfolio/index.html",
+    "main.be220178.css.map": "/terminal-style-portfolio/static/css/main.be220178.css.map",
+    "main.d1320cdd.js.map": "/terminal-style-portfolio/static/js/main.d1320cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be220178.css",
+    "static/js/main.d1320cdd.js"
+  ]
+}
